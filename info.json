@@ -1,0 +1,9 @@
+{
+  "name": "plain-map",
+  "version": "1.0.0",
+  "title": "Plain Map",
+  "author": "unique_2",
+  "description": "Removes everything map gen related except copper and iron",
+  "dependencies": ["base >= 1.0"],
+  "factorio_version": "1.1.0"
+}
